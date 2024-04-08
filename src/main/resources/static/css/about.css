@@ -1,0 +1,43 @@
+/* about.css */
+
+main {
+    padding-top: 100px;
+    margin-left: 180px;
+    margin-right:180px;
+    display: block;
+
+}
+.hero-image {
+    max-width: 100%;
+    transition: filter .5s ease-in-out;
+}
+/* about.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #007BFF;
+}
+.image-container {
+    float: right;
+}
+
+.hero-image img {
+    width: 190px;
+    height: 290px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #007BFF;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Add more styles as needed */
